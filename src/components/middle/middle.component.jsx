@@ -3,7 +3,6 @@ import React from "react";
 import serviceBoardBg from "../../images/bs.png";
 import aboutBorderImg from "../../images/ba.png";
 import { asinfo } from "../../constants/boardInfo";
-import "./middle.style.scss";
 import styled from "styled-components";
 
 const Container = styled.div`
